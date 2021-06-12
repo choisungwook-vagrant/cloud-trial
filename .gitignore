@@ -1,0 +1,4 @@
+.vagrant
+venv
+__pycache__
+.vscode
