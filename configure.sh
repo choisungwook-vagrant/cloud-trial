@@ -42,3 +42,4 @@ echo "vm.swappiness = 40" >> /etc/sysctl.conf
 echo never > /sys/kernel/mm/transparent_hugepage/defrag
 echo never > /sys/kernel/mm/transparent_hugepage/enabled
 chmod +x /etc/rc.d/rc.local
+
